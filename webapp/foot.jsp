@@ -1,0 +1,1 @@
+<h2><footer style =color:blue> This is my footer </footer></h2>
